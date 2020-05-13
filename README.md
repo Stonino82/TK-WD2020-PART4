@@ -13,7 +13,8 @@
     <li>Subscribe to the newsletter</li>
     <li>Fill in contact form</li>
     <li>Purchase of a product or service</li>
-
+</ul>
+<ul>
     <p>MICRO-GOALS</p>
     <li>Viewing a video</li>
     <li>Adding a product or service to your cart</li>
@@ -66,7 +67,7 @@
 <h2>4. What is Funnel in Goals?</h2>
 
 <p>A funnel is a set of steps that a user can take within a web page until it is finalized in a purchase or conversion process. The name is dictated by the fact that at each step the number of customers is naturally decreasing. It is easy to imagine how each web has a greater number of visits than the purchases of products or services offered.</p>
-<small>Source: https://noergia.com/blog/2014/06/que-son-los-embudos-o-funnels-en-google-analytics/</small>
+
 <p>Therefore the funnel is the process that  help to trace the path followed by the user and find out his behavior. GA is a fundamental tool for the study of the funnel since it allows you to identify how the customer reaches our web, where the purchase process starts or where he leaves, in order to optimize the page to reach a greater number of conversions.</p>
 
 <h2>5. Can you explain events in Google Analytics? What are the 4 components of an event?</h2>
@@ -85,3 +86,12 @@
 
 <h3>Label and value</h3>
 <p>They correspond to two values ​​which, despite being optional, can be useful for having even more traceability of a given action. The label can refer to the name of a video displayed or in the specific example mentioned, the name of the product added to the cart. The value, on the other hand, corresponds to a number to be associated with the traced action such as the price of the product. We can therefore define events as selection points as a specific target for a goal, being able to reveal itself as the decisive action that defines the achievement of a goal. Together with the goals they represent two fundamental points for the tracing and subsequent analysis of the data in order to optimize the website as much as possible.</p>
+
+<h3>References:</h3>
+<p>Google Analytics. Mide y vencerás (I. Gorostiza Esquerdeiro, A. Barainca Fontao, 2016)</p>
+<p>analytics.google.com</p>
+<p>support.google.com</p>
+<p>https://www.iebschool.com/blog/crear-objetivos-en-google-analytics-analitica-usabilidad/</p>
+<p>https://www.website.com/event-and-conversion-tracking</p>
+<p>https://www.ve.com/es/blog/crear-embudo-de-conversion-google-analytics</p>
+<p>https://www.labschool.es/crear-eventos-google-analytics/</p>
